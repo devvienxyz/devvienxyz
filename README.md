@@ -13,10 +13,17 @@ devvien = {
     "available_for_work": True,
     "previous_work": "Software Engineer - marqo.ai",
     "from": "Taguig, Philippines",
-    "tech": ["Python", "React", "Typescript", "Javascript"],
+    "code": ["Python", "React", "Typescript", "Javascript"],
+    "tools": ["AWS", "AWS CDK"],
     "tech_communities": {
         "djangogirlscdo": "coach, 2019-present",
-        "womenwhocodemanila": "mentor, 2021"
-    }
+        "womenwhocodemanila": "mentor, 2021",
+    },
+    "github_accounts": {
+        "devvienxyz": "https://github.com/devvienxyz",
+        "cinnamonplum": "https://github.com/cinnamonplum",
+        "im-vivien": "https://github.com/im-vivien",
+        "blueprints-n-boilerplates": "https://github.com/blueprints-n-boilerplates",
+    },
 }
 ```

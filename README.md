@@ -12,7 +12,7 @@
 devvien = {
     "available_for_work": True,
     "previous_work": "Software Engineer - marqo.ai",
-    "from": "Taguig, Philippines",
+    "from": "Philippines",
     "code": ["Python", "React", "Typescript", "Javascript"],
     "tools": ["AWS", "AWS CDK"],
     "tech_communities": {
@@ -25,5 +25,9 @@ devvien = {
         "im-vivien": "https://github.com/im-vivien",
         "blueprints-n-boilerplates": "https://github.com/blueprints-n-boilerplates",
     },
+    "portfolios": {
+        "tableau": "https://public.tableau.com/app/profile/vivien.bunane/vizzes",
+        "kaggle": "https://www.kaggle.com/vivienbunane"
+    }
 }
 ```

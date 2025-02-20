@@ -27,7 +27,8 @@ devvien = {
     },
     "portfolios": {
         "tableau": "https://public.tableau.com/app/profile/vivien.bunane/vizzes",
-        "kaggle": "https://www.kaggle.com/vivienbunane"
+        "kaggle": "https://www.kaggle.com/vivienbunane",
+        "trailhead": "https://www.salesforce.com/trailblazer/odyhbvvkxizl2r63f7"
     }
 }
 ```

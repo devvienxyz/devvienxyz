@@ -1,5 +1,9 @@
+<!-- markdownlint-disable first-line-h1 -->
+
 <!-- markdownlint-disable no-inline-html -->
-<img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" alt="Waving Cat GIF" width="40px" style="margin-right:20px;">[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=6EFF09&background=FFFE9300&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=40&lines=Hey!+I'm+Vivien)](https://git.io/typing-svg)
+<img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" alt="Waving Cat GIF" width="200px" style="">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=6EFF09&background=FFFE9300&center=false&multiline=true&repeat=false&width=435&height=100&lines=Hey!+I'm+Vivien+%F0%9F%98%B8)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=6EFF09&background=FFFE9300&multiline=true&repeat=true&random=true&width=435&height=40&lines=A+little+more+about+me%3A)](https://git.io/typing-svg)
 
@@ -24,7 +28,16 @@ devvien = {
         "power_bi": "https://github.com/devvienxyz/powerbi",
         "tableau": "https://public.tableau.com/app/profile/vivien.bunane/vizzes",
         "kaggle": "https://www.kaggle.com/vivienbunane",
-        "trailhead": "https://www.salesforce.com/trailblazer/odyhbvvkxizl2r63f7"
+        "trailhead": "https://www.salesforce.com/trailblazer/odyhbvvkxizl2r63f7",
+        "microsoft_learning": "https://learn.microsoft.com/en-us/users/keishalouisevivienbunane-8568"
     }
 }
 ```
+
+## Highlights
+
+### Tableau
+
+<a href="https://public.tableau.com/app/profile/vivien.bunane/viz/UCIDrugReview/UCIDrugReview">
+  <img src="assets/uci-drug-review-tableau-preview.png" alt="UCI Drug Review" style="width:400px;">
+</a>
